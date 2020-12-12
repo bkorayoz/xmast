@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/xmast/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/xmast/static/js/main.04ee3126.chunk.js",
-    "main.js.map": "/xmast/static/js/main.04ee3126.chunk.js.map",
+    "main.js": "/xmast/static/js/main.c0552407.chunk.js",
+    "main.js.map": "/xmast/static/js/main.c0552407.chunk.js.map",
     "runtime-main.js": "/xmast/static/js/runtime-main.dcc283fa.js",
     "runtime-main.js.map": "/xmast/static/js/runtime-main.dcc283fa.js.map",
-    "static/js/2.dbe6e28d.chunk.js": "/xmast/static/js/2.dbe6e28d.chunk.js",
-    "static/js/2.dbe6e28d.chunk.js.map": "/xmast/static/js/2.dbe6e28d.chunk.js.map",
+    "static/js/2.8235a5d7.chunk.js": "/xmast/static/js/2.8235a5d7.chunk.js",
+    "static/js/2.8235a5d7.chunk.js.map": "/xmast/static/js/2.8235a5d7.chunk.js.map",
     "static/js/3.c6507a38.chunk.js": "/xmast/static/js/3.c6507a38.chunk.js",
     "static/js/3.c6507a38.chunk.js.map": "/xmast/static/js/3.c6507a38.chunk.js.map",
     "index.html": "/xmast/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/xmast/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.dbe6e28d.chunk.js.LICENSE.txt": "/xmast/static/js/2.dbe6e28d.chunk.js.LICENSE.txt"
+    "static/js/2.8235a5d7.chunk.js.LICENSE.txt": "/xmast/static/js/2.8235a5d7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.dcc283fa.js",
-    "static/js/2.dbe6e28d.chunk.js",
+    "static/js/2.8235a5d7.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.04ee3126.chunk.js"
+    "static/js/main.c0552407.chunk.js"
   ]
 }

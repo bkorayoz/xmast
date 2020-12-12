@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/xmast/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/xmast/static/js/main.186f50fb.chunk.js",
+    "main.js.map": "/xmast/static/js/main.186f50fb.chunk.js.map",
+    "runtime-main.js": "/xmast/static/js/runtime-main.5869b3a4.js",
+    "runtime-main.js.map": "/xmast/static/js/runtime-main.5869b3a4.js.map",
+    "static/js/2.fa8883d9.chunk.js": "/xmast/static/js/2.fa8883d9.chunk.js",
+    "static/js/2.fa8883d9.chunk.js.map": "/xmast/static/js/2.fa8883d9.chunk.js.map",
+    "static/js/3.e1f63104.chunk.js": "/xmast/static/js/3.e1f63104.chunk.js",
+    "static/js/3.e1f63104.chunk.js.map": "/xmast/static/js/3.e1f63104.chunk.js.map",
+    "index.html": "/xmast/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/xmast/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.fa8883d9.chunk.js.LICENSE.txt": "/xmast/static/js/2.fa8883d9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/xmast/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5869b3a4.js",
+    "static/js/2.fa8883d9.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.186f50fb.chunk.js"
+  ]
+}
